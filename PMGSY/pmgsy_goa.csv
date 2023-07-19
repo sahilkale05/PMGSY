@@ -1,0 +1,25 @@
+﻿,STATE_NAME,DISTRICT_NAME,BLOCK_NAME,HABITATION_NAME,HAB_CODE,MASTER_FACILITY_DESC,ADDRESS,FILE_UPLOAD_DATE,MASTER_FACILITY_CATEGORY_NAME,SUB_CATEGORY,LATITUDE,LONGITUDE
+1,Goa,North Goa,Sattari,Gimai wada ,802437,bus Stop,gimai Wada morlem,17-May-23,Transport/Admin,Bus Stand,15.59276514,74.03923389
+2,Goa,North Goa,Sattari,Ghoteli no 1,749073,state bank of india,ghoteli no 1,17-May-23,Transport/Admin,Bank,15.60747116,74.06190059
+3,Goa,North Goa,Sattari,Ghoteli no 1,749073,Government primary school,ghoteli no1,17-May-23,Education ,High School - General,15.60633122,74.06030584
+4,Goa,North Goa,Sattari,Ghoteli no 1,749073,Government primary school ghoteli.,ghoteli keri,17-May-23,Education ,High School - General,15.61577795,74.06008869
+5,Goa,North Goa,Tiswadi,Batim Maina,114476,st.francis college,Malwarwada,25-Apr-23,Education ,Degree College,15.43924,73.89333
+6,Goa,North Goa,Sattari,Bhatwada Advoi,41272,sub health centre,Bhatwada advoi,17-May-23,Medical ,Primary Health Centre,15.49608549,74.09812223
+7,Goa,North Goa,Ponda,Cundaim,237587,Government Fair Price Shop,Fair Price Shop Wadiwada,03-Jun-23,Agro ,Collection Centre or Pack House,15.43927889,73.95365825
+8,Goa,North Goa,Ponda,Cundaim,237587,Shri Navdurga Dudh Vyasay Saunstha Maryadit,Shri Navdurga Dudh Vyasay Saunstha Maryadit Wadiwada,03-Jun-23,Agro ,Agro Industry,15.44292351,73.95347896
+9,Goa,North Goa,Sattari,Belwada Parye,1092829,Government primary school,belwada paraye,12-May-23,Education ,High School - General,15.59303169,74.02909309
+10,Goa,North Goa,Sattari,Keri,1429847,sahakari vidhyalay,Ravan keri,17-May-23,Education ,High School - General,15.61119717,74.03250369
+11,Goa,North Goa,Sattari,Keri,1429847,keri urban cooperative bank,keri,17-May-23,Transport/Admin,Bank,15.60917619,74.06735522
+12,Goa,North Goa,Sattari,Baherilwada Keri ,368110,Government High school,baherilwada keri,17-May-23,Education ,High School - General,15.61177353,74.06516728
+13,Goa,North Goa,Sattari,Baherilwada Keri ,368110,shri pardeshvar dudh utapadak sahakari Sanstha maryadit,baherilwada keri,17-May-23,Agro ,Collection Centre or Pack House,15.61177557,74.06509302
+14,Goa,North Goa,Tiswadi,Miryabhat -231,670181,panchayat office,panchayat office neura tiswadi goa,27-Apr-23,Transport/Admin,Panchayat Headquarter,15.44361,73.91780667
+15,Goa,North Goa,Sattari,Kelawade keri,255634,sahakari dudh utapadak mandli society,kelwada keri,17-May-23,Agro ,Collection Centre or Pack House,15.61779922,74.03452686
+16,Goa,North Goa,Sattari,Tamidgewada Parye ,1092830,Government primary school,tamidgewada paraye,12-May-23,Education ,High School - General,15.60029794,74.03177398
+17,Goa,North Goa,Sattari,Tulshimala Parye,1429317,hindustan petroleum,tulshimala paraye,12-May-23,Transport/Admin,Fuel Station,15.57177085,74.01631596
+18,Goa,North Goa,Bicholim,Bicholim Mandrekar wada ,1429434,agro banas,"barddez
+miya wada",,Agro ,Agro Industry,,
+19,Goa,North Goa,Sattari,Matwada ghoteloi no 1,757673,lokmanya cooperative society bank ltd,mathwada keri,17-May-23,Transport/Admin,Bank,15.60885634,74.06391213
+20,Goa,North Goa,Sattari,Majikwada Parye,1088264,The Goa state cooperative Bank Ltd,majikwada paraye,12-May-23,Transport/Admin,Bank,15.58620341,74.02763366
+21,Goa,North Goa,Sattari,Majikwada Parye,1088264,village grampanchayat,majikwada paraye,12-May-23,Transport/Admin,Panchayat Headquarter,15.58732316,74.02828371
+22,Goa,North Goa,Sattari,Majikwada Parye,1088264,Government primary school,majikwada paraye,12-May-23,Education ,High School - General,15.58787377,74.02966041
+23,Goa,North Goa,Sattari,Majikwada Parye,1088264,sub health centre,majikwada paraye,12-May-23,Medical ,Primary Health Centre,15.5875788,74.02937515
